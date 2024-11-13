@@ -1,5 +1,6 @@
 # Nearby_Habitable_Exoplanets
-Data and functions relating to nearby habitable exoplanets:<br/>
+Data and Relevant Functions for Nearby Habitable Exoplanets on Attached Jupyter Notebook:<br/>
+<br/>
 Overview/NameExoWorlds 2022 Challenge: https://www.youtube.com/watch?v=WkdDdm6naR8,<br/>
 Part 1 (0-20 Lightyears): https://www.youtube.com/watch?v=WitDXCozgXI,<br/>
 Part 2 (20-35 Lightyears): https://www.youtube.com/watch?v=qDmosgr2B7c,<br/>
